@@ -12,10 +12,12 @@ Aditi Athavale (asa85)
 Kevin Sarmiento(ks2255)
 
 ## Semester Goals
-1. To research and implement an accounting tool for water boards in Honduras to keep track of their finances with
+1. To research and implement an accounting tool for water boards in Honduras to keep track of their finances
 2. To create a database of donors interested in working with AguaClara reach
 3. To reach out to potential donors for AguaClara reach and building relationships with non-profit organizations
 
 ## Links
 
 [Mid-semester symposium](https://docs.google.com/presentation/d/1hxwhMlGaWdp2znX-Lw_Hc_RjiCMrUIA2d3EHKrsPbKk/edit?usp=sharing)
+
+[Mid-Semester Memo](https://docs.google.com/document/d/1vzeaTvGCHHz3vGRcxnTFCfJoeWeCsaOhqw4u7xmYK6Y/edit?usp=sharing)
