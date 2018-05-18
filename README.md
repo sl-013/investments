@@ -21,3 +21,7 @@ Kevin Sarmiento(ks2255)
 [Mid-semester symposium](https://docs.google.com/presentation/d/1hxwhMlGaWdp2znX-Lw_Hc_RjiCMrUIA2d3EHKrsPbKk/edit?usp=sharing)
 
 [Mid-Semester Memo](https://docs.google.com/document/d/1vzeaTvGCHHz3vGRcxnTFCfJoeWeCsaOhqw4u7xmYK6Y/edit?usp=sharing)
+
+[Final-Semester symposium](https://docs.google.com/presentation/d/1hsFNUdPwy03ud9vZodUgSqHHCnpsjZVNNhP3t_G1TK8/edit?usp=sharing)
+
+[Final Memo](https://docs.google.com/document/d/1fZAsMkaj1XlyXsckZ0xjV7pDo0qS38Yves5tcLiCNQY/edit?usp=sharing)
