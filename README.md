@@ -25,3 +25,5 @@ Cindy Jin cj369
 [Mid-Semester Memo](https://docs.google.com/document/d/1u37sXH73nDevr-YWyTNWnN9L0W_iuBm-qfPT0j_BdWA/edit?usp=sharing)
 
 [Final Symposium](https://docs.google.com/presentation/d/1ryxtot8Tcogb7Gez3Ab-QqY52U_zzSmNzNiJrnKori4/edit?usp=sharing)
+
+[Final Presentation](https://www.youtube.com/watch?v=5x5J13468EE) 
