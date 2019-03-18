@@ -1,16 +1,18 @@
 # Investments Team
 
 ## Subteam Lead
-Jonathan Tsang (jct259)
+Nicolette Ocasio (neo7)
 
 ## Team Members
 Jenny Chan (jc2764)
 
-Nicolette Ocasio (neo7)
-
 Chloe Wang (yw358)
 
-Cindy Jin cj369
+Cindy Jin (cj369)
+
+Christin Li (cl829)
+
+Maria Christina Kalogera (mk2472)
 
 ## Semester Goals
 1. To improve the existing financial model by adding in additional features for sensitivity analysis
@@ -27,3 +29,5 @@ Cindy Jin cj369
 [Final Symposium](https://docs.google.com/presentation/d/1ryxtot8Tcogb7Gez3Ab-QqY52U_zzSmNzNiJrnKori4/edit?usp=sharing)
 
 [Final Presentation](https://www.youtube.com/watch?v=5x5J13468EE) 
+
+[Mid-semester symposium (Spring 2019) (https://docs.google.com/presentation/d/16QWAlImwWX9EESEmMR5Q6C7n9oDC_nIo1DPWbvQ2OK8/edit#slide=id.g34c30208cd_0_0)
