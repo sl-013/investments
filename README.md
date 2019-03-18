@@ -30,4 +30,4 @@ Maria Christina Kalogera (mk2472)
 
 [Final Presentation](https://www.youtube.com/watch?v=5x5J13468EE) 
 
-[Mid-Semester Symposium - Spring 2019) https://docs.google.com/presentation/d/16QWAlImwWX9EESEmMR5Q6C7n9oDC_nIo1DPWbvQ2OK8/edit#slide=id.g34c30208cd_0_0
+[Mid-Semester Symposium - Spring 2019] (https://docs.google.com/presentation/d/16QWAlImwWX9EESEmMR5Q6C7n9oDC_nIo1DPWbvQ2OK8/edit#slide=id.g34c30208cd_0_0)
