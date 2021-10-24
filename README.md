@@ -1,19 +1,19 @@
 # Investments Team
 
 ## Subteam Lead
-Cindy Jin (cj369)
+Yinkei De Maqua (yad6)
 
 ## Team Members
 
-Rebecca Holstein (rah366)
+Royce Koh (rsk224)
 
-Alice Kim (hk583)
+Ivan Xie (ix24)
 
 
 ## Semester Goals
-1. To raise a goal of $5,000 through crowdfunding
-2. To research potential grants to apply and fund AguaClara Cornell research
-3. To apply for EPA P3 Phase I funding for PF200 subteam
+1. To raise a goal of $7,000 through crowdfunding
+2. To create financial statements for AguaClara
+3. To interpret the investment potential of AguaClara
 
 ## Links
 
@@ -36,3 +36,5 @@ Alice Kim (hk583)
 [Final Presentation - Fall 2019] (TBA)
 
 [Final Presentation Video - Fall 2019] (TBA)
+
+[Mid-Semester Symposium - Fall 2021] https://docs.google.com/presentation/d/1MEH1SGQuXAs52SN-25RNkS94ZtwwNlj9h-pr-CZ5mdU/edit?usp=sharing
