@@ -1,21 +1,31 @@
 # Investments Team
+Hello! We are the Investments Subteam for AguaClara.
+
+## Research Advisor
+Zachary Kwon (zk49)
 
 ## Subteam Lead
-Yinkei De Maqua (yad6)
+Angie Nuisud (agn43)
 
 ## Team Members
 
-Royce Koh (rsk224)
+Sunny Liu (kl797)
 
-Ivan Xie (ix24)
+Arjun Sen (as3747)
 
 
 ## Semester Goals
-1. To raise a goal of $7,000 through crowdfunding
+1. To raise a goal of $5,000 through Giving Day
 2. To create financial statements for AguaClara
 3. To interpret the investment potential of AguaClara
+4. To write grants for AguaClara subteams
 
-## Links
+## Recent Work
+[Mid-Semester Symposium - Fall 2023](https://docs.google.com/presentation/d/1Im_5bewI3kTdnA9enPAhznnInEAqBZucH9N4rjKmBvk/edit?usp=sharing)
+
+[Crowdfunding Fall 2023](https://crowdfunding.cornell.edu/project/39556/wall)
+
+## Previous Links
 
 [Mid-Semester Symposium](https://docs.google.com/presentation/d/1fSfu31Kt1ClVReuWGEF3kZqZzbG76lUMSZEKSdc7eFs/edit?usp=sharing)
 
@@ -32,8 +42,6 @@ Ivan Xie (ix24)
 [Final Presentation Video - Spring 2019](https://www.youtube.com/watch?v=0Rhn808rNnM&list=PLhsGtpY8ipdZL4lExJA8KC0zCkaxwfs8R&index=24&t=0s)
 
 [Mid-Semester Symposium - Fall 2019](https://docs.google.com/presentation/d/1WEmfq-1IXo0NoRUEtoY8QUeWT-AoNaGrgk-wYI7-tl4/edit?usp=sharing)
-
-[Final Presentation - Fall 2019] (TBA)
 
 [Final Presentation Video - Fall 2019] (TBA)
 
