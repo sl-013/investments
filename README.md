@@ -13,6 +13,8 @@ Sunny Liu (kl797)
 
 Arjun Sen (as3747)
 
+Shivas Khera (sk2692)
+
 
 ## Semester Goals
 1. To raise a goal of $5,000 through Giving Day
