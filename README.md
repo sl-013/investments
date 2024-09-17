@@ -2,32 +2,28 @@
 Hello! We are the Investments Subteam for AguaClara.
 
 ## Research Advisor
-Zachary Kwon (zk49)
+Gina Bae (ghb72)
 
 ## Subteam Lead
-Angie Nuisud (agn43)
+Sunny Liu (kl797)
 
 ## Team Members
-
-Sunny Liu (kl797)
 
 Arjun Sen (as3747)
 
 Shivas Khera (sk2692)
 
-Diya Bhageria (db926)
+Stella Canez (smc449)
 
 
 ## Semester Goals
 1. To raise a goal of $5,000 through Giving Day
-2. To create financial statements for AguaClara
-3. To interpret the investment potential of AguaClara
-4. To write grants for AguaClara subteams
+2. Compile a comprehensive grant database
+3. Apply for the EPA P3 Grant
+4. Allocate and secure funds for Honduras trip
 
 ## Recent Work
-[Mid-Semester Symposium - Fall 2023](https://docs.google.com/presentation/d/1Im_5bewI3kTdnA9enPAhznnInEAqBZucH9N4rjKmBvk/edit?usp=sharing)
-
-[Crowdfunding Fall 2023](https://crowdfunding.cornell.edu/project/39556/wall)
+[Symposium - Spring 2024](https://docs.google.com/presentation/d/1xuzQmz-yZXePNyjlguRKPEvMoLdRDYlANksS7iuob9g/edit?usp=drive_link)
 
 ## Previous Links
 
